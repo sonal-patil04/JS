@@ -1,1 +1,1 @@
-`Total cost is: ${(599+295)/100}`
+alert(`Total cost is: ${(599+295)/100}`)
