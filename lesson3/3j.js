@@ -1,0 +1,1 @@
+alert("Total cost is: $8.94 \n Thank you, come again!")
